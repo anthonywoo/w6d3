@@ -1,0 +1,22 @@
+.square {
+	height: 80px;
+	width: 80px;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	font-size: 100px;
+	vertical-align: middle;
+}
+
+.ttt-container {
+	margin: 10px auto 0px auto;
+	width: 370px;
+}
+
+body {
+	text-align: center;
+}
+
+.symbol {
+	margin-top: 20px;
+}
